@@ -1,3 +1,3 @@
 # ML_BI_2023
 
-Course "Maschine learning" in Bioinformatics Institute
+Course "Machine learning" in Bioinformatics Institute
